@@ -1,2 +1,2 @@
 # syndata
-project for generating EHR synthetic data
+Project for generating EHR synthetic data
