@@ -1,0 +1,20 @@
+---
+title: "FISABIO Presentation"
+author: "Francisco Sanchez-Saez"
+format: html
+editor: source
+---
+
+FISABIO - Health Services Research & Pharmacoepidemiology Unit
+
+# About
+
+FISABIO (Foundation for the Promotion of Health and Biomedical Research of Valencia Region) is a nonprofit organization based in the Valencia Region of Spain, dedicated to advancing scientific and technical health and biomedical research. The organization integrates the research initiatives of several health foundations and oversees 18 additional Health Departments, serving more than 1,500 healthcare professionals. The foundation aims to facilitate and drive scientific research, promote training in healthcare, contribute to healthcare knowledge, and collaborate on healthcare initiatives.
+
+The Health Services Research & Pharmacoepidemiology (HSRP) unit of FISABIO focuses on enhancing decision-making in healthcare by improving clinical practice and system management. The unit also aims to facilitate better access to high-quality services and provide policymakers with evaluation tools for health system changes in terms of results, quality, access, cost, and service use. With its expertise in federated work and cutting-edge methodologies applied to Real-World Data, the unit is involved in several key projects. These include CONSIGN, which studies 2 million women between 2018 and 2021; PREGVAL, focused on 600,000 pregnancies from 2008 to 2021; and Opioids, which involves 2.5 million individuals with at least one opioid prescription from 2012 to 2022. Other significant projects are Atrial Fibrillation, PREV2FO, Diabetes, and Antipsychotic, each with various data sets and timelines. Therefore, the unit is well-positioned to offer valuable real-world data in the pharmacovigilance and pharmacoepidemiology domain.
+ 
+# Country: Spain
+
+# Lead: Gabriel Sanfélix-Gimeno (gabriel.sanfelix@fisabio.es)
+
+# Contacts: Dr. Francisco Sanchez-Saez (francisco.sanchez@fisabio.es)

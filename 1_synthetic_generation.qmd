@@ -1,0 +1,24 @@
+---
+title: "Synthetic Generation"
+author: "Francisco Sanchez-Saez"
+format: html
+editor: source
+---
+
+## Synthetic generation
+
+```{r}
+library(synthpop)
+
+# Load or create a dataset to be used as a basis for synthesis
+data <- SD2011
+
+# Synthesize data
+synthetic_data <- syn(data)
+
+synthetic_data$syn
+
+saveRDS(synthetic_data, file.path("Results", "synthetic_data.RDS"))
+
+```
+
